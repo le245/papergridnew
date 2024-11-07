@@ -1,0 +1,29 @@
+@media (max-width:460px){
+    .navbar-collapse{
+        background-color: black;
+        padding-left:20px;
+    }
+}
+
+
+
+
+.custom-navbar{
+    height:100px;
+    display: flex;
+    
+}
+.img-grid{
+    width: 100%;
+    height:300px;
+    object-fit: cover;
+}
+#custom-img{
+    max-width:70%;
+    height:auto;
+}
+
+
+#custom-footer{
+    height:500px;
+}
